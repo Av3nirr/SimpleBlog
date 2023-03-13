@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(49, 49, 49);
+    text-align: center;
+}
+
+.title{
+    font-size: 33px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.buttonmain{
+    color: white;
+    background-color: rgb(44, 169, 44);
+}
+
+footer{
+    background-color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 10px;
+}
